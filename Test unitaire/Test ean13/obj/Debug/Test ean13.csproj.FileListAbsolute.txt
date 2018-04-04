@@ -1,0 +1,7 @@
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\bin\Debug\Test ean13.dll
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\bin\Debug\Test ean13.pdb
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\bin\Debug\Test unitaire.exe
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\bin\Debug\Test unitaire.pdb
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\obj\Debug\Test ean13.csprojResolveAssemblyReference.cache
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\obj\Debug\Test ean13.dll
+U:\PPE 2eme annee\visual studio\Test unitaire\Test ean13\obj\Debug\Test ean13.pdb

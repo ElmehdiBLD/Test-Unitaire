@@ -1,0 +1,4 @@
+U:\PPE 2eme annee\visual studio\Test unitaire\Test unitaire\bin\Debug\Test unitaire.exe
+U:\PPE 2eme annee\visual studio\Test unitaire\Test unitaire\bin\Debug\Test unitaire.pdb
+U:\PPE 2eme annee\visual studio\Test unitaire\Test unitaire\obj\x86\Debug\Test unitaire.exe
+U:\PPE 2eme annee\visual studio\Test unitaire\Test unitaire\obj\x86\Debug\Test unitaire.pdb
